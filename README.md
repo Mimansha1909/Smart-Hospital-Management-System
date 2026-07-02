@@ -160,21 +160,9 @@ streamlit run hospfrontend.py
 
 ---
 
-## Screenshots
+## Demo
 
-Screenshots of the application can be added here.
-
-Suggested screenshots:
-
-- Dashboard
-- Patient Registration
-- Doctor Management
-- Pharmacy Inventory
-- Bed Management
-- Billing
-- Emergency Management
-
----
+The application can be run locally by following the installation steps provided above.
 
 ## What I Learned
 
